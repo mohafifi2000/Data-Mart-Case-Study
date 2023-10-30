@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL_Data_Mart", "ETL_Data_Mart\ETL_Data_Mart.dtproj", "{B86656FD-D987-4B2A-A3FF-8C04AA20A0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B86656FD-D987-4B2A-A3FF-8C04AA20A0C7}.Development|Default.ActiveCfg = Development
+		{B86656FD-D987-4B2A-A3FF-8C04AA20A0C7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FF0A62-9099-4A55-BE8F-9C8AF48FE620}
+	EndGlobalSection
+EndGlobal
